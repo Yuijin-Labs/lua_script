@@ -1,0 +1,15 @@
+x = 12
+print(type(x))
+local str ="22"
+print(type(tonumber(str)))
+print(20 ^ 3)
+print(math.random())
+print(math.pi)
+print(os.time())
+print(math.random(10))
+print(math.random(10, 50))
+print(math.min(10, 3, 7, -9, 0, -123))
+print(math.floor(3.43))
+print(math.sin(3.15))
+print(math.cos(3.15))
+print(math.tan(3.15))
